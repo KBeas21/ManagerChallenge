@@ -1,4 +1,4 @@
-# This is a coding challenge
+# This is a coding challenge for SuprTEK via Brooksource
 
 To understand the coding challenge go to the [resources directory](./resources) to see the coding challenge requirements.
 
